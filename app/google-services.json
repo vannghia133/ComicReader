@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643687885018",
+    "firebase_url": "https://comicreader-240fb.firebaseio.com",
+    "project_id": "comicreader-240fb",
+    "storage_bucket": "comicreader-240fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643687885018:android:0bb67b73f10f8d0b",
+        "android_client_info": {
+          "package_name": "com.nghiatv.comicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643687885018-f7hdadtcgmksnrk8n3prck8iv7lhc6jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nghiatv.comicreader",
+            "certificate_hash": "1a7d17692d8dbe5fb16c416c4ab14812551c1723"
+          }
+        },
+        {
+          "client_id": "643687885018-us0qcnrpsoeld8fc3nriphqknrto9o5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6rROSeLyENec0i2tndKg_DPtGfIOCSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643687885018-us0qcnrpsoeld8fc3nriphqknrto9o5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
